@@ -1,0 +1,5 @@
+# Week 1 has zero third-party dependencies — all stdlib.
+# Uncomment as later weeks add packages.
+
+# pydantic>=2.0        # Week 2+ (validation)
+# requests>=2.31       # Week 2+ (LLM API calls)
